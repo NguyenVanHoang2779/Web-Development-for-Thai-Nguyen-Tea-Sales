@@ -1,0 +1,31 @@
+.header {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+    width: 100%;
+}
+
+.slide img {
+    width: 100%;
+    padding-top: 76px;
+}
+
+.logo {
+    width: 100px;
+    height: 75px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.link-item {
+    margin-right: 10px;
+}
+
+.dropdow-product {
+    border: none;
+    background-color: white;
+    color: #5256B3;
+}
